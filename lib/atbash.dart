@@ -1,11 +1,6 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, library_private_types_in_public_api
 
 import "package:flutter/material.dart";
-// import "package:guerba_app/aboutme.dart";
-// import "package:guerba_app/chiper.dart";
-// import "package:guerba_app/login_page.dart";
-// import "package:guerba_app/project.dart";
-// import "package:guerba_app/welcome_page.dart";
 
 class Atbash extends StatefulWidget {
   const Atbash({super.key});
